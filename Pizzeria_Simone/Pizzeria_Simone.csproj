@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Nuova cartella\" />
     <Folder Include="wwwroot\Nuova cartella\" />
   </ItemGroup>
 
